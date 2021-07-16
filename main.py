@@ -56,7 +56,7 @@ conn.close()
 #
 # port = 465  # For SSL
 # email = "zaineisa.work@gmail.com"
-# password = 'Mastersword8!'
+# password = ''
 #
 # # Create a secure SSL context
 # context = ssl.create_default_context()
