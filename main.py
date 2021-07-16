@@ -73,7 +73,7 @@ conn.close()
 
 # YAGMAIL is a library that is better at sending emails
 import yagmail
-email_password = 'Mastersword8!'
+email_password = ''
 receiver = "zaineisa.work@gmail.com"
 body = f"YAGMAIL test email being sent with the dataset from {database}"
 filename = filepath
